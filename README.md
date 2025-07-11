@@ -25,4 +25,4 @@
 除了在线观看外，许多平台还提供资源下载服务，这对于经常在没有网络的情况下观看影片的用户尤为重要。下载功能为用户提供了更多的灵活性，支持不同分辨率的下载选项，满足不同设备和用户的需求。选择下载时，应确保使用官方的下载链接，避免受到病毒和恶意软件的侵害。  
 
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/gmz20250711/rbriben15)</span>
